@@ -1,0 +1,66 @@
+age_dist,department,COUNT
+18-24,Accounting,311
+18-24,Auditing,6
+18-24,"Business Development",174
+18-24,Engineering,563
+18-24,"Human Resources",158
+18-24,Legal,25
+18-24,Marketing,43
+18-24,"Product Management",59
+18-24,"Research and Development",85
+18-24,Sales,172
+18-24,Services,160
+18-24,Support,70
+18-24,Training,146
+25-34,Accounting,705
+25-34,Auditing,11
+25-34,"Business Development",367
+25-34,Engineering,1542
+25-34,"Human Resources",413
+25-34,Legal,70
+25-34,Marketing,128
+25-34,"Product Management",141
+25-34,"Research and Development",226
+25-34,Sales,415
+25-34,Services,390
+25-34,Support,220
+25-34,Training,358
+35-44,Accounting,765
+35-44,Auditing,7
+35-44,"Business Development",376
+35-44,Engineering,1462
+35-44,"Human Resources",408
+35-44,Legal,72
+35-44,Marketing,110
+35-44,"Product Management",146
+35-44,"Research and Development",250
+35-44,Sales,389
+35-44,Services,369
+35-44,Support,207
+35-44,Training,424
+45-54,Accounting,750
+45-54,Auditing,11
+45-54,"Business Development",350
+45-54,Engineering,1497
+45-54,"Human Resources",411
+45-54,Legal,67
+45-54,Marketing,113
+45-54,"Product Management",151
+45-54,"Research and Development",241
+45-54,Sales,403
+45-54,Services,380
+45-54,Support,206
+45-54,Training,360
+"55 and Over",Accounting,216
+"55 and Over",Auditing,5
+"55 and Over","Business Development",100
+"55 and Over",Engineering,437
+"55 and Over","Human Resources",108
+"55 and Over",Legal,14
+"55 and Over",Marketing,28
+"55 and Over","Product Management",30
+"55 and Over","Research and Development",70
+"55 and Over",Sales,118
+"55 and Over",Services,94
+"55 and Over",Support,69
+"55 and Over",Training,113
